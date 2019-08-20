@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\marcusa\.android\build-cache\012f18c078c88f4399aeb569132dc5b8512aa9d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2148ad6dc67b6aa8fdb16d440754670cf10af30\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\marcusa\.android\build-cache\588585abd26d2afba0000fa7d047f48824d0eb9c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\pre-dexed\debug\classes_29986cb8cb5f00674a400663af8b73243cf9d1df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\marcusa\.android\build-cache\0d57769a3646f84f4835787715613bbc35ec65d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\pre-dexed\debug\classes_209da584f6f89bd99be1197ff87f589d26aca210.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marcusa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_e6c4b20c6ce2adfb7c59b8f104f21e9c0eebb512\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marcusa\.android\build-cache\0d57769a3646f84f4835787715613bbc35ec65d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_209da584f6f89bd99be1197ff87f589d26aca210\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\marcusa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_e6c4b20c6ce2adfb7c59b8f104f21e9c0eebb512.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\marcusa\.android\build-cache\48992e0a7bb007865040794cfb02516441b6476c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\pre-dexed\debug\classes_a55533177be71512dfadd95fd890c5fbd336e3be.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marcusa\.android\build-cache\588585abd26d2afba0000fa7d047f48824d0eb9c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29986cb8cb5f00674a400663af8b73243cf9d1df\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\marcusa\.android\build-cache\68c98379a2fb450e66cd6f1d2215fd7e94d119c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\pre-dexed\debug\classes_d54bdf41e96a584b9924afeb24e3caa14413e6f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\marcusa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_e6c4b20c6ce2adfb7c59b8f104f21e9c0eebb512.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\marcusa\.android\build-cache\0d57769a3646f84f4835787715613bbc35ec65d1\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_7d4be056063a6f9938e5cf08589e480bf853da19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\marcusa\.android\build-cache\012f18c078c88f4399aeb569132dc5b8512aa9d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\pre-dexed\debug\classes_e2148ad6dc67b6aa8fdb16d440754670cf10af30.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marcusa\.android\build-cache\68c98379a2fb450e66cd6f1d2215fd7e94d119c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d54bdf41e96a584b9924afeb24e3caa14413e6f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marcusa\.android\build-cache\0d57769a3646f84f4835787715613bbc35ec65d1\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_7d4be056063a6f9938e5cf08589e480bf853da19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0019a41503e53216a434e72e5f79e46d3d7caf56">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_74914cc0dc986b354068dad19f043548a3196b80\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\marcusa\.android\build-cache\1ea3bef806a62ddc65e98a4442b8072a4ead9813\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\pre-dexed\debug\classes_fe6ee2eff2c2021464c2c7f372e077c08f7d724d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marcusa\.android\build-cache\1ea3bef806a62ddc65e98a4442b8072a4ead9813\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe6ee2eff2c2021464c2c7f372e077c08f7d724d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marcusa\.android\build-cache\48992e0a7bb007865040794cfb02516441b6476c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a55533177be71512dfadd95fd890c5fbd336e3be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marcusa\.android\build-cache\61e458605672ef33b58bb38f49d993a8e15ec401\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e87d9ed7d6dff8f85bc55eb8a599d2ac4f12d64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marcusa\.android\build-cache\4117cae518f569dcb75d1ae1f0fce627ec8149f1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59f7336a13004ec5d29524eca704004082ae217f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7261cfb7a0c5041ba7a8443a177281e2ee37f63e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\marcusa\.android\build-cache\4117cae518f569dcb75d1ae1f0fce627ec8149f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\pre-dexed\debug\classes_59f7336a13004ec5d29524eca704004082ae217f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\marcusa\.android\build-cache\61e458605672ef33b58bb38f49d993a8e15ec401\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\marcusa\AndroidStudioProjects\CalculusNCEAApp\app\build\intermediates\pre-dexed\debug\classes_6e87d9ed7d6dff8f85bc55eb8a599d2ac4f12d64.jar" />
+    </item>
+
+</items>
