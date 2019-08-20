@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculus NCEA App</string>
+    <string name="action_settings">Settings</string>
+    <string name="differentiation">Differentiation</string>
+    <string name="complex_numbers">Complex Numbers</string>
+    <string name="math160">Math 160</string>
+    <string name="ncea_level_3_calculus_revision_app">NCEA Level 3 Calculus Exam Revision App</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="this_quiz_will_be_a_multiple_answer_quiz_with_10_questions_your_score_will_be_given_at_the_end_good_luck">This quiz will be a multiple answer quiz with 10 questions. Your score will be given at the end, Good Luck</string>
+    <string name="logo_desc" />
+    <string name="formula">Formula</string>
+    <string name="formula2">Formula</string>
+    <string name="title_activity_question_page">QuestionPage</string>
+    <string name="question">Question 1</string>
+    <string name="c_users_marcusa_androidstudioprojects_calculusnceaapp_app_src_main_res_drawable_hdpi_differentiation_q1_diff_q1_png">C:UsersmarcusaAndroidStudioProjectsCalculusNCEAAppappsrcmainresdrawable-hdpiDifferentiationQ1Diff_q1.png</string>
+    <string name="questionimage">QuestionImage</string>
+    <string name="differentiate_the_following">Differentiate the following</string>
+    <string name="choose_the_correct_answer">Choose the correct Answer</string>
+    <string name="question_1_button">Question 1 button</string>
+    <string name="question_2_button">Question 2 Button</string>
+    <string name="question_3_button">Question 3 Button</string>
+    <string name="results_of_the_quiz">Results of the Quiz</string>
+    <string name="results">Results</string>
+    <string name="insperationmessage">InsperationMessage</string>
+    <string name="end_quiz">End Quiz</string>
+    <string name="new_quiz">New Quiz</string>
+    <string name="pointsgained">Points: 0</string>
+</resources>
